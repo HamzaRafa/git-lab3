@@ -1,2 +1,2 @@
-Feature B
+Feature B updated
 
